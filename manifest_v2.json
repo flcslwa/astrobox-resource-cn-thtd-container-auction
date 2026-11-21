@@ -1,0 +1,62 @@
+{
+  "item": {
+    "id": "cn.thtd.container.auction",
+    "restype": "quick_app",
+    "name": "集装箱竞拍",
+    "description": "抬腕就能玩的竞拍开箱游戏。\n\n《集装箱竞拍》是一款小米手环上的单机竞拍经营小游戏。\n\n你从码头夜市起步，手里只有 10,000 游戏币。拍卖场上，3 位 AI 对手和你实时抢柜；拍下后开箱，随机开出 6–9 件物品，可以逐件出售，也可以一键全卖。\n\n每箱盈亏控制在 8%–40%，幅度越大越少见，整体胜率约 55%。前 3 单保底盈利，资金见底还有 1,000 游戏币救济金，不会一局卡死。\n\n10 个拍卖场：\n\n码头夜市 → 港口仓库 → 保税拍卖行 → 国际港口 → 军需品拍卖场 → 古董黑市 → 深海打捞场 → 跨国走私线 → 皇室遗产库 → 传奇拍卖会\n\n资产每 +10 万解锁更高级拍卖场；什么时候重仓、什么时候收手、什么时候把仓库里的货变现，都会影响你能不能走到最后。\n\n虚拟商品，兑换码一经发出或核销，不支持退换\n\n游戏币仅用于游戏内玩法，不可提现、不可兑换现金\n\n一码一机，用过的兑换码不能再次使用",
+    "preview": [
+      "media/preview_2_open_1200x800.png",
+      "media/xiaomi_band_10-2026-11-14-12-31-31.png",
+      "media/xiaomi_band_10-2026-11-14-12-31-38.png",
+      "media/xiaomi_band_10-2026-11-07-04-03-26.png"
+    ],
+    "icon": "media/icon_192x192.png",
+    "cover": "media/container_auction_cover_v2_1200x800.png",
+    "author": [
+      {
+        "name": "flcslwa",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买链接：",
+      "url": "https://ifdian.net/item/1a3a13e4df7211f1863352540025c377",
+      "icon": "link-simple-break"
+    },
+    {
+      "title": "激活链接：",
+      "url": "https://www.thtd2026.top/p/container-auction",
+      "icon": "link-simple-break"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/cn.thtd.container.auction.release.jsc.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/cn.thtd.container.auction.release.jsc.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/cn.thtd.container.auction.release.jsc.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/cn.thtd.container.auction.release.jsc.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/cn.thtd.container.auction.release.jsc.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
